@@ -1,0 +1,69 @@
+body{
+  margin-left: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+
+
+}
+.calculations{
+  color: white;
+    font-size: 45px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+button{
+  background-color: #333333;
+  color: white;
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  border: none;
+  font-size: 26px;
+  cursor: pointer;
+  margin-right: 5px;
+  }
+  .plus{
+    padding: 0;
+    padding-top: 13px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+  border-radius: 50px;
+  background-color:   #FEA00A;
+  }
+  .minus{
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+  border-radius: 50px;
+  background-color:   #FEA00A;
+  }
+
+  .multiply{
+    padding: 0;
+    padding-top: 17px;
+    padding-bottom: 6px;
+    padding-left: 25px;
+    padding-right: 25px;
+  border-radius: 50px;
+  background-color:   #FEA00A;
+  }
+  .divide { 
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 50px;
+    background-color:   #FEA00A;
+  }
+  .clear-button{
+    font-size: 1rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 60px;
+  }
