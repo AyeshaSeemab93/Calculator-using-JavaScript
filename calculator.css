@@ -1,12 +1,14 @@
 body{
-  margin-left: 2rem;
+  margin-left: 3rem;
   font-family: Arial, Helvetica, sans-serif;
   background-color: black;
 
-
+}
+h1{
+  color: white;
 }
 .calculations{
-  color: white;
+    color: white;
     font-size: 45px;
     margin-top: 15px;
     margin-bottom: 5px;
